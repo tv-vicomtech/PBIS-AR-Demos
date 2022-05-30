@@ -1,0 +1,18 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="UI.uss" />
+    <ui:IMGUIContainer style="height: 470px; width: 421px; max-width: 100%; min-width: 100%; min-height: 100%; max-height: 100%;">
+        <ui:VisualElement name="topCanvas" style="max-height: 70%; min-width: 100%; min-height: 70%; max-width: 100%; align-items: center;">
+            <ui:VisualElement style="min-height: 20%; flex-direction: row; flex-wrap: wrap; min-width: 100%;">
+                <ui:Button text="Back" display-tooltip-when-elided="true" name="Back" style="height: 30px; width: 56px; min-height: 30%; white-space: normal; font-size: 10%; min-width: 20%;" />
+                <ui:Label text="How do you respond to the student?" display-tooltip-when-elided="true" name="QuestionLabel" style="font-size: 15%; white-space: normal; -unity-text-align: upper-center; -unity-font-style: bold; max-width: 100%; max-height: 70%; color: rgb(245, 237, 237); -unity-text-outline-color: rgb(0, 0, 0); -unity-text-outline-width: 0.1px; min-height: 20%; min-width: 100%;" />
+            </ui:VisualElement>
+            <ui:Button text="Try Again!" display-tooltip-when-elided="true" name="Reset" style="font-size: 20%; white-space: normal; align-items: center; min-width: 30%; min-height: 10%;" />
+        </ui:VisualElement>
+        <ui:VisualElement style="min-width: 100%; min-height: 30%; justify-content: space-around; align-items: center; flex-direction: row; flex-wrap: wrap; max-width: 100%; max-height: 30%;">
+            <ui:Button text="Hand Shake" display-tooltip-when-elided="true" name="HandShake" style="white-space: normal; max-width: 100%; max-height: 100%; min-width: 10%; min-height: 50%; font-size: 10%; -unity-text-align: middle-center; flex-wrap: wrap;" />
+            <ui:Button text="Hello" display-tooltip-when-elided="true" name="Hello" style="min-width: 10%; min-height: 50%; font-size: 10%; white-space: normal;" />
+            <ui:Button text="Hello Punch" display-tooltip-when-elided="true" name="HelloPunch" style="min-width: 10%; min-height: 50%; font-size: 10%; white-space: normal;" />
+            <ui:Button text="High Five" display-tooltip-when-elided="true" name="HighFive" style="min-width: 10%; min-height: 50%; font-size: 10%; white-space: normal;" />
+        </ui:VisualElement>
+    </ui:IMGUIContainer>
+</ui:UXML>

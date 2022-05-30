@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ChooseCharacter.unity
+    guid: 2c4c45ca2cfdc404d9eb06689d0bc328
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 241db649cdbcc8746863a30c6e8e317d, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: dc08d49bee1bfdd49bc85d10b16128e1, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 08130f7ce625e874e8b58b1be7c8cfb2, type: 2}

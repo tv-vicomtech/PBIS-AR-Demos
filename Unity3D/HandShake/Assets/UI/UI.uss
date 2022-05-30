@@ -1,0 +1,12 @@
+.unity-text-element {
+    color: rgba(255, 255, 255, 255);
+}
+
+.unity-button {
+    color: rgba(231, 228, 228, 255);
+    border-left-color: rgba(0, 0, 0, 255);
+    border-right-color: rgba(0, 0, 0, 255);
+    border-top-color: rgba(0, 0, 0, 255);
+    border-bottom-color: rgba(0, 0, 0, 255);
+    background-color: rgba(123, 87, 87, 255);
+}

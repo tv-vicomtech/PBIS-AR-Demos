@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="min-width: 100%; min-height: 100%; flex-direction: row; align-items: auto; justify-content: center;">
+        <ui:VisualElement style="min-width: 50%; height: 32px; width: 178px; align-items: center; justify-content: center;">
+            <ui:Button text="Teacher" display-tooltip-when-elided="true" name="Woman" style="max-width: 50%; height: 30px; width: 75px;" />
+        </ui:VisualElement>
+        <ui:VisualElement style="min-width: 50%; height: 32px; width: 178px; align-items: center; justify-content: center;">
+            <ui:Button text="Student" display-tooltip-when-elided="true" name="Boy" style="max-width: 50%; height: 30px; width: 75px;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
