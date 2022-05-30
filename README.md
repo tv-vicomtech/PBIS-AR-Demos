@@ -15,7 +15,7 @@ Some of the tools developed here rely on Orkestra to function (specifically, its
 ## Demos
 - [Handshake Demo](https://github.com/tv-vicomtech/PBIS-AR-Demos/tree/master/Unity3D/HandShake)
 - [Stand Up For Other](https://github.com/tv-vicomtech/PBIS-AR-Demos/tree/master/Unity3D/Bullying)
-- [Organize Space](https://github.com/tv-vicomtech/ARETE/PBIS-AR-Demos/tree/master/Unity3D/OrganizeSpace)
+- [Organize Space](https://github.com/tv-vicomtech/PBIS-AR-Demos/tree/master/Unity3D/OrganizeSpace)
 
 ## Requirements
 - Android 7.0 (API level 24) or higher
