@@ -13,9 +13,9 @@ Some of the tools developed here rely on Orkestra to function (specifically, its
   * [Resources (Documentation and other links)](#resources-documentation-and-other-links)
 
 ## Demos
-- [Handshake Demo](https://github.com/tv-vicomtech/ARETE/tree/AnimationDemos/Unity3D/HandShake)
-- [Stand Up For Other](https://github.com/tv-vicomtech/ARETE/tree/AnimationDemos/Unity3D/Bullying)
-- [Organize Space](https://github.com/tv-vicomtech/ARETE/tree/AnimationDemos/Unity3D/OrganizeSpace)
+- [Handshake Demo](https://github.com/tv-vicomtech/PBIS-AR-Demos/Unity3D/HandShake)
+- [Stand Up For Other](https://github.com/tv-vicomtech/PBIS-AR-Demos/Unity3D/Bullying)
+- [Organize Space](https://github.com/tv-vicomtech/ARETE/PBIS-AR-Demos/Unity3D/OrganizeSpace)
 
 ## Requirements
 - Android 7.0 (API level 24) or higher
@@ -25,7 +25,7 @@ Some of the tools developed here rely on Orkestra to function (specifically, its
 
 Clone the project from the repository: 
 ```
-  git clone  https://username@github.com/tv-vicomtech/ARETE.git
+  git clone  https://username@github.com/tv-vicomtech/PBIS-AR-Demos.git
 ```
 
 Download the latest version of the OrkestraLib and the Socket.IO package from the OrkestraLib-Unity [releases](https://github.com/tv-vicomtech/orkestralib-unity/releases/).
@@ -44,14 +44,3 @@ For more information about how to use Orkestra from within a Unity project, plea
 ## Resources (Documentation and other links)
 
 [OrkestraLib](https://github.com/tv-vicomtech/orkestralib-unity/releases/) - OrkestraLib releases. 
-
-### Legacy
-Some of the old files and projects developed for the project have been moved to Vicomtech's Box (`ARETE_EU1367_2018 > 3.Informacion_durante_el_proyecto > Port Unity Orkestralib`). The files moved to Box contain the following folders:
-
-      The folder [TFM_Anne-Claire](TFM_Anne-Claire) contains the code developed by Anne-Claire Fouchier for markerless AR using computer vision models
-
-      The folder [TFG_Alvaro](TFG_Alvaro) contains the doe developed by Alvaro Cabrero for AR for multi-user musical effects
-
-      The folder [XAPI](XAPI) contains the code used for the [Learning Locker](https://learninglocker.vicomtech.org) server installed at Vicomtech, as well as the code for the automatic generation of xAPI related code for Unity and web applications
-
-      The folder [Twitter_Analytics](Twitter_Analytics) contains some R code use to analyze the Twitter traffic related to the ARETE project. 
